@@ -1,9 +1,3 @@
-# Hi, I'm `Jam` 👋
-
-**Unity Developer & Gameplay Programmer** based in West Midlands, UK.
-
----
-
 ### 🕹️ Professional Experience
 - **Gameplay Programmer** @ *Till The End Games Ltd*
   - Working on *[Kingdoms of Arailia](https://store.steampowered.com/app/4461890/Kingdoms_of_Arailia/)* using `Unity` & `C#`
